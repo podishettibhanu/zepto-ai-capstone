@@ -1,4 +1,4 @@
-# Support Assistant (`/support_assistant`) — 25 marks
+# Support Assistant (`/support_assistant`)
 
 ## Install & run (graded baseline — fully offline)
 

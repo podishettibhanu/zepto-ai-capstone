@@ -1,4 +1,4 @@
-# Analytics (`/analytics`) — 50 marks
+# Analytics (`/analytics`)
 
 ## Install & run
 
