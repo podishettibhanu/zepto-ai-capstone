@@ -1,4 +1,4 @@
-# Data Pipeline (`/data_pipeline`) — 25 marks
+# Data Pipeline (`/data_pipeline`)
 
 ## Install & run
 
