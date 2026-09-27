@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv312/
+data_pipeline/books.db
+analytics/charts/*.png
+analytics/models/*.joblib
+# NOTE: analytics/titanic.csv is intentionally NOT ignored -- it must be
+# committed as the offline fallback per the module spec.
