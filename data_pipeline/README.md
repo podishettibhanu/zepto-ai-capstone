@@ -57,3 +57,6 @@ using this module's query work as the feature being developed.
 - `4_between` -> BETWEEN
 - `5_in` -> IN
 - `6_join_top_rated_per_category` -> JOIN (books ⋈ categories)
+## Verified Run
+
+The data pipeline was executed successfully with 69 rows across 3 categories. SQLite loading, SQL queries, pandas `read_sql`, and the equivalent `pd.merge` operation were verified successfully.
